@@ -85,12 +85,12 @@
                 </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="../UI/general.html"><i class="fa fa-circle-o"></i> General</a></li>
-            <li><a href="../UI/icons.html"><i class="fa fa-circle-o"></i> Icons</a></li>
-            <li><a href="../UI/buttons.html"><i class="fa fa-circle-o"></i> Buttons</a></li>
-            <li><a href="../UI/sliders.html"><i class="fa fa-circle-o"></i> Sliders</a></li>
-            <li><a href="../UI/timeline.html"><i class="fa fa-circle-o"></i> Timeline</a></li>
-            <li><a href="../UI/modals.html"><i class="fa fa-circle-o"></i> Modals</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> General</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Icons</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Buttons</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Sliders</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Timeline</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Modals</a></li>
           </ul>
         </li>
         <li class="treeview">
@@ -145,15 +145,15 @@
                 </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="../examples/invoice.html"><i class="fa fa-circle-o"></i> Invoice</a></li>
-            <li><a href="../examples/profile.html"><i class="fa fa-circle-o"></i> Profile</a></li>
-            <li><a href="../examples/login.html"><i class="fa fa-circle-o"></i> Login</a></li>
-            <li><a href="../examples/register.html"><i class="fa fa-circle-o"></i> Register</a></li>
-            <li><a href="../examples/lockscreen.html"><i class="fa fa-circle-o"></i> Lockscreen</a></li>
-            <li><a href="../examples/404.html"><i class="fa fa-circle-o"></i> 404 Error</a></li>
-            <li><a href="../examples/500.html"><i class="fa fa-circle-o"></i> 500 Error</a></li>
-            <li><a href="../examples/blank.html"><i class="fa fa-circle-o"></i> Blank Page</a></li>
-            <li><a href="../examples/pace.html"><i class="fa fa-circle-o"></i> Pace Page</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Invoice</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Profile</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Login</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Register</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Lockscreen</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> 404 Error</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> 500 Error</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Blank Page</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i> Pace Page</a></li>
           </ul>
         </li>
         <li class="treeview">
