@@ -1,6 +1,6 @@
   <!-- Left side column. contains the logo and sidebar git push -f origin master -->
   <aside class="main-sidebar">
-    <!-- sidebar: style can be found in sidebar.less -->
+    <!-- sidebar: style can be found in sidebar.less git push -u origin master -->
     <section class="sidebar">
       <!-- Sidebar user panel s -->
       <div class="user-panel">
