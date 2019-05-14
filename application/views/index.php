@@ -2,7 +2,7 @@
   <aside class="main-sidebar">
     <!-- sidebar: style can be found in sidebar.less git push -u origin master -->
     <section class="sidebar">
-      <!-- Sidebar user panel s -->
+      <!-- Sidebar user panel s Sidebar user panel s Sidebar user panel s Sidebar user panel s -->
       <div class="user-panel">
         <div class="pull-left image">
           <img src="<?php echo base_url(); ?>assets/image/user2-160x160.jpg" class="img-circle" alt="User Image">
