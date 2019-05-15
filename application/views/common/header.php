@@ -20,21 +20,27 @@
     <link href="starter-template.css" rel="stylesheet">
     <style>
     body {
-  padding-top: 5rem;
-}
-.site {
-  padding: 3rem 1.5rem;
-  text-align: center;
-}
+      padding-top: 1rem;
+      }
+      .site {
+        padding: 3rem 1.5rem;
+      }
+      .contact{
+        border:1px solid red;
+        padding:25px;
+        margin-top:50px;
+      }
+
     </style>
     <style>
+    
       table{
-        font-size:12px;
+        font-size:10px;
       }
-      table, th, td {
-  padding:2px !important;
-  margin:2px !important;
-}
+      table, td {
+        padding:2px !important;
+        margin:2px !important;
+      }
     </style>
   </head>
 

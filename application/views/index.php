@@ -1,6 +1,25 @@
 <main role="main" class="container site">
   <div class="row">
-    <div class="col-md-12">
+  <!-- first box -->
+    <div class="col-md-4">
+      <h4 class="page-header">Default Implementation</h4>
+      <form role="form">
+          <div class="form-group float-label-control">
+              <label for="">Username</label>
+              <input type="email" class="form-control" placeholder="Username">
+          </div>
+          <div class="form-group float-label-control">
+              <label for="">Password</label>
+              <input type="password" class="form-control" placeholder="Password">
+          </div>
+          <div class="form-group float-label-control">
+              <label for="">Textarea</label>
+              <textarea class="form-control" placeholder="Textarea" rows="1"></textarea>
+          </div>
+      </form>
+    </div>
+    <!-- end first box -->
+    <div class="col-md-8">
     <div class="box">
         <div class="box-header">
           <h4 class="box-title">Data Table</h4>
